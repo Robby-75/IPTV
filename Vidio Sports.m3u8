@@ -113,7 +113,7 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18189&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
 
 
-================= CHAMPIONS =================
+================= Event By Vidio =================
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/YXGaqbBcWaGuuharMuSqU5g91_s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-088191.jpg" group-title="VIDIO", Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -122,6 +122,7 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
 https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/By38AnRK-9FEAVaWm3VTSDbjedA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-1fb2ff.jpg" group-title="VIDIO", Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
