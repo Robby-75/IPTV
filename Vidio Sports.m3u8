@@ -120,5 +120,5 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252&type=drm
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
