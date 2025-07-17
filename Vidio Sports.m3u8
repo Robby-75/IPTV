@@ -229,7 +229,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
 
 ================= Event By Vidio =================
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YXlm08q2bgs5L6AsU5mKOFx3qf8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433121/b499a6.jpg" group-title="Event By Vidio", "Men: Cuba vs Poland - Volleyball Nations League"
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YXlm08q2bgs5L6AsU5mKOFx3qf8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433121/b499a6.jpg" group-title="Event By Vidio",Men: Cuba vs Poland - Volleyball Nations League" | Volleyball Nations League
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -237,3 +237,690 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851-volleyball-nations-league?schedule_id=4433121
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851-volleyball-nations-league?schedule_id=4433121
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KnANfj7AF0XegxAKJU25lLV1TH4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433122/835311.jpg" group-title="Event By Vidio",Men: Netherlands vs Slovenia - Volleyball Nations League" | Volleyball Nations League
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18954-volleyball-nations-league?schedule_id=4433122
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18954-volleyball-nations-league?schedule_id=4433122
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2RB3kkrmEGD3ly_2g-fkffOc5hI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428793/8b6cae.jpg" group-title="Event By Vidio",Detroit Pistons vs Miami Heat - NBA 2K Summer League" | NBA TV · 18 Jul 2025 - 03:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717-nba-tv?schedule_id=4428793
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717-nba-tv?schedule_id=4428793
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FACTvFaK53xUoGpiCiIg4nYiVJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428794/848ba4.jpg" group-title="Event By Vidio",Atlanta Hawks vs Memphis Grizzlies - NBA 2K Summer League" | NBA TV · 18 Jul 2025 - 05:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717-nba-tv?schedule_id=4428794
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717-nba-tv?schedule_id=4428794
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NXoxWTlvGTITVybj5MIltSOTZqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428796/9cb37b.jpg" group-title="Event By Vidio",Barracuda Championship - Round 1" | Champions Golf 1 · 18 Jul 2025 - 05:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189-champions-golf-1?schedule_id=4428796
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189-champions-golf-1?schedule_id=4428796
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9IpSrqc7_xWA7-a8pxpv7hqNpzc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428797/ee66ca.jpg" group-title="Event By Vidio",Houston Rockets vs Portland Trail Blazers - NBA 2K Summer League" | NBA TV · 18 Jul 2025 - 07:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717-nba-tv?schedule_id=4428797
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717-nba-tv?schedule_id=4428797
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xT2VJr5pRwnYnxCIhDPA3P_fi2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428798/c80cc9.jpg" group-title="Event By Vidio",ATP 250: Mifel Tennis Open by Telcel Oppo 2025 - Quarter Final" | Bein 2 · 18 Jul 2025 - 08:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875-bein-2?schedule_id=4428798
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875-bein-2?schedule_id=4428798
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tWitpfNUMPru0nTnEl4m9W1WRWg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-quarterfinals-court-1-01e068.jpg" group-title="Event By Vidio",Yuichi Shimogami/Sayaka Hobara (JPN) vs Chen Tang Jie/Toh Ee Wei (MAS) - Mixed Doubles Quarterfinals | Daihatsu Japan Open 2025" | Daihatsu Japan Open 2025 - Quarterfinals (Court 1) · 18 Jul 2025 - 08:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249-daihatsu-japan-open-2025-quarterfinals-court-1
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249-daihatsu-japan-open-2025-quarterfinals-court-1
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZMVnGjRycx9qg93c7tLFFtjgNgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/daihatsu-japan-open-2025-quarterfinals-court-2-fc36ec.jpg" group-title="Event By Vidio",Tang Chun Man/Tse Ying Suet (HKG) vs Dechapol Puavaranukroh/Supissara Paewsampran (THA) - Mixed Doubles Quarterfinals | Daihatsu Japan Open 2025" | Daihatsu Japan Open 2025 - Quarterfinals (Court 2) · 18 Jul 2025 - 08:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250-daihatsu-japan-open-2025-quarterfinals-court-2
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250-daihatsu-japan-open-2025-quarterfinals-court-2
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/27wt_IadBwvsB6p8MFurP7gn3kQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428806/26c310.jpg" group-title="Event By Vidio",Golden State Warriors vs Toronto Raptors - NBA 2K Summer League" | NBA TV · 18 Jul 2025 - 09:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717-nba-tv?schedule_id=4428806
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717-nba-tv?schedule_id=4428806
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Srdx9lzptzfv-WFXqrP94p3hfYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428801/f6220c.jpg" group-title="Event By Vidio",ATP 250: Mifel Tennis Open by Telcel Oppo 2025 - Quarter Final" | Bein 3 · 18 Jul 2025 - 09:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4428801
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4428801
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tWitpfNUMPru0nTnEl4m9W1WRWg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-quarterfinals-court-1-01e068.jpg" group-title="Event By Vidio",Man Wei Chong/Kai Wun Tee (MAS) vs Kim Won Ho/Seo Seung Jae (KOR) - Men's Doubles Quarterfinals | Daihatsu Japan Open 2025" | Daihatsu Japan Open 2025 - Quarterfinals (Court 1) · 18 Jul 2025 - 11:20
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249-daihatsu-japan-open-2025-quarterfinals-court-1?schedule_id=4433341
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249-daihatsu-japan-open-2025-quarterfinals-court-1?schedule_id=4433341
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TfB-JEFCoj2U6hQV_Cyse3PLR30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428810/3521f3.jpg" group-title="Event By Vidio",The Open Championship - Round 2" | SPOTV · 18 Jul 2025 - 12:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139-spotv?schedule_id=4428810
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139-spotv?schedule_id=4428810
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZxsTOxeiWlMvK8iYRmM3orbfYPw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433123/f11d06.jpg" group-title="Event By Vidio",Men: Argentina vs United States - Volleyball Nations League" | Volleyball Nations League · 18 Jul 2025 - 13:15
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853-volleyball-nations-league?schedule_id=4433123
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853-volleyball-nations-league?schedule_id=4433123
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IPQyeJRqDdU8BdCvtDXnavQEHTs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428817/a93b1f.jpg" group-title="Event By Vidio",Moto3 Free Practice 1: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 18 Jul 2025 - 13:55
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4428817
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4428817
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8hV8aon8n4jhqnlz_OGWlWbkEUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428820/d95e70.jpg" group-title="Event By Vidio",WTA 250: UniCredit Iasi Open - Quarter Final" | Champions TV 1 · 18 Jul 2025 - 14:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685-champions-tv-1?schedule_id=4428820
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685-champions-tv-1?schedule_id=4428820
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d379Vp13WmuJ1du1FhccNyIrpFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428818/a53cb9.jpg" group-title="Event By Vidio",Moto2 Free Practice 1: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 18 Jul 2025 - 14:40
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4428818
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4428818
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NElWSDyiMEPujqXK71MRxGtFL9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4430214/e6356e.jpg" group-title="Event By Vidio",Malaga P1 Premier Padel 2025 - Quarter Final" | Bein 1 · 18 Jul 2025 - 15:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299-bein-1?schedule_id=4430214
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299-bein-1?schedule_id=4430214
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1A7tTe2MG3dsZyc86keUtOChGXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428822/ffbe00.jpg" group-title="Event By Vidio",ATP 250: EFG Swiss Open Gstaad 2025 - Quarter Final" | Bein 2 · 18 Jul 2025 - 15:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875-bein-2?schedule_id=4428822
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875-bein-2?schedule_id=4428822
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hAOS7u0hkmMSVECYHcCm8ClKuhs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4426564/640a23.jpg" group-title="Event By Vidio",Men: Philippines vs Cambodia - SEA VLeague" | SEA VLeague 2025 · 18 Jul 2025 - 15:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051-sea-vleague-2025?schedule_id=4426564
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051-sea-vleague-2025?schedule_id=4426564
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vZkXxffofAScggmpAbVFaUPs-ZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428819/cc0e8e.jpg" group-title="Event By Vidio",MotoGP Free Practice 1: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 18 Jul 2025 - 15:35
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4428819
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4428819
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fS32sVS-Ulw_HbCsIskF8Cg3fKY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428815/97b3a4.jpg" group-title="Event By Vidio",WTA 250: MSC Hamburg Ladies Open - Quarter Final" | Champions TV 3 · 18 Jul 2025 - 16:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786-champions-tv-3?schedule_id=4428815
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786-champions-tv-3?schedule_id=4428815
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I9CRmmUc6FMFrzvp74XINWOaNSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428816/469ab6.jpg" group-title="Event By Vidio",ATP 250: Nordea Open 2025 - Quarter Final" | Bein 3 · 18 Jul 2025 - 16:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4428816
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4428816
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oGS1s2vUPQZvDN4cgDnrrYmeTq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431398/62a915.jpg" group-title="Event By Vidio",Brunei Darussalam vs Malaysia - ASEAN U-23 Championship Mandiri Cup" | ASEAN U-23 Championship Mandiri Cup · 18 Jul 2025 - 17:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431398
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431398
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j5IpMLl71GGQ5t8xEaEXLbNCyOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433124/89c524.jpg" group-title="Event By Vidio",Men: Brazil vs Japan - Volleyball Nations League" | Volleyball Nations League · 18 Jul 2025 - 17:20
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853-volleyball-nations-league?schedule_id=4433124
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853-volleyball-nations-league?schedule_id=4433124
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Hn5Hb1kcd13lCaz0uac3yf3dJic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428814/fe7779.jpg" group-title="Event By Vidio",Moto3 Practice: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 18 Jul 2025 - 18:10
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4428814
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4428814
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SrScpZV3_y2qBh4hdHZaiFSF2ak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428813/b00327.jpg" group-title="Event By Vidio",Moto2 Practice: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 18 Jul 2025 - 18:55
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4428813
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4428813
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yZgvGDTSnL-FfSDPt3jFac_qNq4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4426565/57f36d.jpg" group-title="Event By Vidio",Men: Thailand vs Vietnam - SEA VLeague" | SEA VLeague 2025 · 18 Jul 2025 - 19:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051-sea-vleague-2025?schedule_id=4426565
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051-sea-vleague-2025?schedule_id=4426565
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9jLryxFdrzaKKQuJlkpHz1wahoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428800/44caf2.jpg" group-title="Event By Vidio",ONE Friday Fights 116" | ONE Championship · 18 Jul 2025 - 19:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=16890-one-championship?schedule_id=4428800
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=16890-one-championship?schedule_id=4428800
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1Y3eEtv518BNCGuyT238L9RhDDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428812/7bd954.jpg" group-title="Event By Vidio",MotoGP Practice: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 18 Jul 2025 - 19:50
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4428812
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4428812
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lMwrpmfv2v1D8-ZBdeXGnPZ5XEM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431399/2041ac.jpg" group-title="Event By Vidio",Philippines vs Indonesia - ASEAN U-23 Championship Mandiri Cup" | ASEAN U-23 Championship Mandiri Cup · 18 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431399
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431399
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/59jEjudQLaB3b9jGPGg_zPNbq7U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428809/f7b918.jpg" group-title="Event By Vidio",WTA 250: UniCredit Iasi Open - Quarter Final" | Champions TV 1 · 18 Jul 2025 - 21:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685-champions-tv-1?schedule_id=4428809
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685-champions-tv-1?schedule_id=4428809
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/m_YPOOJwdFRWR6goPPYj7MxcYvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428811/816c48.jpg" group-title="Event By Vidio",Malaga P1 Premier Padel 2025 - Quarter Final" | Bein 1 · 18 Jul 2025 - 21:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299-bein-1?schedule_id=4428811
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299-bein-1?schedule_id=4428811
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/80BdCAMIJ2xI149Famye6dWSLQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433129/12060d.jpg" group-title="Event By Vidio",Men: Ukraine vs Serbia - Volleyball Nations League" | Champions TV 2 · 18 Jul 2025 - 21:25
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686-champions-tv-2?schedule_id=4433129
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686-champions-tv-2?schedule_id=4433129
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wkMxmEAUIB3ZbNGj18zy4NWDwmY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433128/d7bc64.jpg" group-title="Event By Vidio",Men: Cuba vs France - Volleyball Nations League" | Volleyball Nations League · 18 Jul 2025 - 21:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851-volleyball-nations-league?schedule_id=4433128
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851-volleyball-nations-league?schedule_id=4433128
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/utfyZlp5HbBoEaZssjysGSW72c0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433330/76174d.jpg" group-title="Event By Vidio",Dallas Mavericks vs Orlando Magic - NBA 2K Summer League" | NBA TV · 19 Jul 2025 - 03:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717-nba-tv?schedule_id=4433330
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717-nba-tv?schedule_id=4433330
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wkZFD1wrQ-NaVGKCBV3HCSjTCPU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433331/d2b2c0.jpg" group-title="Event By Vidio",Philadelphia 76ers vs Brooklyn Nets - NBA 2K Summer League" | NBA TV · 19 Jul 2025 - 05:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717-nba-tv?schedule_id=4433331
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717-nba-tv?schedule_id=4433331
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jg-lKiilOQznfd5t4_Bn4C4T654=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431218/55e080.jpg" group-title="Event By Vidio",Barracuda Championship - Round 2" | Champions Golf 1 · 19 Jul 2025 - 05:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189-champions-golf-1?schedule_id=4431218
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189-champions-golf-1?schedule_id=4431218
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OqJSTpFPaBIafcTRqdMF5Oy1Ah4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431219/89a23d.jpg" group-title="Event By Vidio",ATP 250: Mifel Tennis Open by Telcel Oppo 2025 - Semifinal" | Bein 2 · 19 Jul 2025 - 09:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875-bein-2?schedule_id=4431219
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875-bein-2?schedule_id=4431219
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5Z4nQMHL5i_VpFKvjSxcBk1rG0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431220/9c2127.jpg" group-title="Event By Vidio",Moto3 Free Practice 2: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 13:35
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431220
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431220
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/154hkmwlNITbSdZqb35s1M7MsnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431221/fe7821.jpg" group-title="Event By Vidio",Moto2 Free Practice 2: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 14:20
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431221
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431221
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x3iGRkxjUNFet5MvQaPFww8CCY4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431222/edea0a.jpg" group-title="Event By Vidio",MotoGP Free Practice 2: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 15:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431222
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431222
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OiQCyKH9C8QiogynJsdSPfHHR_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431223/6574bb.jpg" group-title="Event By Vidio",MotoGP Qualifying: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 15:40
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431223
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431223
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bv9tC0OvBZEYIct7_jzwoOMYAhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431227/b7ad92.jpg" group-title="Event By Vidio",ATP 250: EFG Swiss Open Gstaad 2025 - Semifinal" | Bein 2 · 19 Jul 2025 - 16:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875-bein-2?schedule_id=4431227
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875-bein-2?schedule_id=4431227
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7XwCP-bK9J3bdS-Ko8K7ltDxQ7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431228/291ec6.jpg" group-title="Event By Vidio",The Open Championship - Round 3" | SPOTV · 19 Jul 2025 - 16:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139-spotv?schedule_id=4431228
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139-spotv?schedule_id=4431228
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gaS7WVHIxpyoRGdm-r3eVaA4lS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428802/4ddf52.jpg" group-title="Event By Vidio",Men: Thailand vs Philippines - SEA VLeague" | SEA VLeague 2025 · 19 Jul 2025 - 16:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051-sea-vleague-2025?schedule_id=4428802
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051-sea-vleague-2025?schedule_id=4428802
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HVejgWeZ_YYpMeOPMTr0AIev0-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431229/aa9540.jpg" group-title="Event By Vidio",Malaga P1 Premier Padel 2025 - Semifinal" | Bein 1 · 19 Jul 2025 - 17:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6299-bein-1?schedule_id=4431229
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6299-bein-1?schedule_id=4431229
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ip4srYipdBRFh3QTVLgB-U4ULe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431400/f4f028.jpg" group-title="Event By Vidio",Laos vs Vietnam - ASEAN U-23 Championship Mandiri Cup" | ASEAN U-23 Championship Mandiri Cup · 19 Jul 2025 - 17:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431400
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431400
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CTrLkOwgRg71lDxdJLZY7HLuRZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433119/a09c64.jpg" group-title="Event By Vidio",Launching Team Persebaya Surabaya 2025/2026" | Launching Team Persebaya Surabaya 2025/2026 · 19 Jul 2025 - 17:40
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19086-launching-team-persebaya-surabaya-2025-2026?schedule_id=4433119
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19086-launching-team-persebaya-surabaya-2025-2026?schedule_id=4433119
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ymcyb159k4VLhOcLOkVV7TyXzy8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431224/cff69e.jpg" group-title="Event By Vidio",Moto3 Qualifying: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 17:45
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431224
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431224
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7y8UnqG-xWM-GOl7lfhipB3pHN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431230/db3ba3.jpg" group-title="Event By Vidio",ATP 250: Nordea Open 2025 - Semifinal" | Bein 3 · 19 Jul 2025 - 18:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4431230
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4431230
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cwvmgTA5n62OPqCEb8cAUXhr9dw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431225/aaf908.jpg" group-title="Event By Vidio",Moto2 Qualifying: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 18:45
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431225
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431225
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1yatrYvXh8b_3HL4WgOo--OMYro=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431231/d095fb.jpg" group-title="Event By Vidio",WTA 250: MSC Hamburg Ladies Open - Semifinal" | Champions TV 3 · 19 Jul 2025 - 19:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786-champions-tv-3?schedule_id=4431231
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786-champions-tv-3?schedule_id=4431231
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6ZwAy3aQ20tfIZn3NP0eBs96dKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428803/f30323.jpg" group-title="Event By Vidio",Men: Indonesia vs Cambodia - SEA VLeague" | SEA VLeague 2025 · 19 Jul 2025 - 19:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051-sea-vleague-2025?schedule_id=4428803
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051-sea-vleague-2025?schedule_id=4428803
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVzQkLa8dkjfj7_r8saIu8aoRAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433117/2c9fa6.jpg" group-title="Event By Vidio",Persebaya Surabaya vs PSS Sleman - Persebaya Matchday" | Persebaya Matchday 2025 · 19 Jul 2025 - 19:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19047-persebaya-matchday-2025?schedule_id=4433117
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19047-persebaya-matchday-2025?schedule_id=4433117
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GCSm46d0b87YIlzYh60J-F-6n7g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431226/d614fe.jpg" group-title="Event By Vidio",MotoGP Tissot SPRINT: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 19 Jul 2025 - 19:45
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4431226
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4431226
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Cb4OXDmzjSZ8a6b1UvFxMVthhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431401/8d9405.jpg" group-title="Event By Vidio",Timor-Leste vs Thailand - ASEAN U-23 Championship Mandiri Cup" | ASEAN U-23 Championship Mandiri Cup · 19 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431401
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431401
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/02pAjhzlyA2U0QCbWB7u_uzkF7Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431233/b0d229.jpg" group-title="Event By Vidio",WTA 250: UniCredit Iasi Open - Semifinal" | Champions TV 1 · 19 Jul 2025 - 21:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685-champions-tv-1?schedule_id=4431233
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685-champions-tv-1?schedule_id=4431233
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GNPoupzGLTiys-sh1NA3L93fG0M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433179/7e1217.jpg" group-title="Event By Vidio",Men: Iran vs France - Volleyball Nations League" | Volleyball Nations League · 20 Jul 2025 - 01:15
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851-volleyball-nations-league?schedule_id=4433179
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851-volleyball-nations-league?schedule_id=4433179
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NYrngnULo5ziHGdQNq7U_rRWmBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433180/43154c.jpg" group-title="Event By Vidio",Men: Slovenia vs Italy - Volleyball Nations League" | Volleyball Nations League · 20 Jul 2025 - 01:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18954-volleyball-nations-league?schedule_id=4433180
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18954-volleyball-nations-league?schedule_id=4433180
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ow4BI5rXDaB5kUZyetVp-SvxSpQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433068/69a7aa.jpg" group-title="Event By Vidio",Barracuda Championship - Round 3" | Champions Golf 1 · 20 Jul 2025 - 05:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189-champions-golf-1?schedule_id=4433068
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189-champions-golf-1?schedule_id=4433068
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TRXInlSZGXPD1St0IVE0z-ZTKls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433181/172805.jpg" group-title="Event By Vidio",Men: Turkey vs Argentina - Volleyball Nations League" | Volleyball Nations League · 20 Jul 2025 - 08:45
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853-volleyball-nations-league?schedule_id=4433181
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853-volleyball-nations-league?schedule_id=4433181
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3pye-GSNTkPTDu-T7gh29VDB5wo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433071/e1eb30.jpg" group-title="Event By Vidio",ATP 250: Mifel Tennis Open by Telcel Oppo 2025 - Final" | Bein 2 · 20 Jul 2025 - 10:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875-bein-2?schedule_id=4433071
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875-bein-2?schedule_id=4433071
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XWZAYm9VatUntvaTkTr7WExWRoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433183/7d12de.jpg" group-title="Event By Vidio",Men: Germany vs Brazil - Volleyball Nations League" | Volleyball Nations League · 20 Jul 2025 - 12:15
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853-volleyball-nations-league?schedule_id=4433183
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853-volleyball-nations-league?schedule_id=4433183
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LWzl1BgueoPzAkuRbyYzvZOP-is=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433073/dbfee9.jpg" group-title="Event By Vidio",MotoGP Warm Up & Rider's Parade: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 20 Jul 2025 - 14:35
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4433073
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4433073
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PFOqAAvEl0x3PDSnOb_hZ8vdPM8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433087/e96a5d.jpg" group-title="Event By Vidio",The Open Championship - Round 4" | SPOTV · 20 Jul 2025 - 15:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17139-spotv?schedule_id=4433087
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17139-spotv?schedule_id=4433087
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1y0Xix3Vrf0mNVlW1LKcu8fpeEU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433074/4dc188.jpg" group-title="Event By Vidio",Moto3 Race: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 20 Jul 2025 - 15:45
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4433074
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4433074
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gy_VSdGcMTOdBeSsb5j2gr4tf8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428807/846db0.jpg" group-title="Event By Vidio",Men: Philippines vs Vietnam - SEA VLeague" | SEA VLeague 2025 · 20 Jul 2025 - 16:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051-sea-vleague-2025?schedule_id=4428807
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051-sea-vleague-2025?schedule_id=4428807
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uy_wzlipxCJZwe8GFdS5nk6YSRk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433072/2a82a7.jpg" group-title="Event By Vidio",ATP 250: EFG Swiss Open Gstaad 2025 - Final" | Bein 2 · 20 Jul 2025 - 16:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17875-bein-2?schedule_id=4433072
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17875-bein-2?schedule_id=4433072
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gZidgfVHmbnayE5Q67jpXNfaNAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433075/57414c.jpg" group-title="Event By Vidio",Moto2 Race: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 20 Jul 2025 - 17:10
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4433075
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4433075
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y9IMcw4aOT4qfPY46a47YnoZPPk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433178/635f1b.jpg" group-title="Event By Vidio",Men: United States vs Japan - Volleyball Nations League" | Champions TV 2 · 20 Jul 2025 - 17:20
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686-champions-tv-2?schedule_id=4433178
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686-champions-tv-2?schedule_id=4433178
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-IhABQs6VrRojEKbnuDsIPsxSUc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433173/fa8374.jpg" group-title="Event By Vidio",Men: Ukraine vs Canada - Volleyball Nations League" | Champions TV 1 · 20 Jul 2025 - 18:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685-champions-tv-1?schedule_id=4433173
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685-champions-tv-1?schedule_id=4433173
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wQr965rdWKlvRb9W71iL0v5UovA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433076/af2b14.jpg" group-title="Event By Vidio",MotoGP Race: MotoGP 2025 Round 12 - Grand Prix of Czechia" | SPOTV 2 · 20 Jul 2025 - 18:25
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17140-spotv-2?schedule_id=4433076
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140-spotv-2?schedule_id=4433076
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J3ff1H9JGnEWK578yrcooYVYBUw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433182/5b8710.jpg" group-title="Event By Vidio",Men: China vs Cuba - Volleyball Nations League" | Volleyball Nations League · 20 Jul 2025 - 18:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851-volleyball-nations-league?schedule_id=4433182
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851-volleyball-nations-league?schedule_id=4433182
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Rw8JiyrzMCU0937PxkkuYWrNPOA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428808/6309bb.jpg" group-title="Event By Vidio",Men: Indonesia vs Thailand - SEA VLeague" | SEA VLeague 2025 · 20 Jul 2025 - 19:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051-sea-vleague-2025?schedule_id=4428808
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051-sea-vleague-2025?schedule_id=4428808
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6fQwgxOGLnCQEjYTCHdmEw9EL-c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433088/5045e1.jpg" group-title="Event By Vidio",ATP 250: Nordea Open 2025 - Final" | Bein 3 · 20 Jul 2025 - 19:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4433088
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4433088
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T49VXAvUFANf-PWomMfCHqJzD2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433112/19f609.jpg" group-title="Event By Vidio",WTA 250: MSC Hamburg Ladies Open - Final" | Champions TV 3 · 20 Jul 2025 - 19:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786-champions-tv-3?schedule_id=4433112
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786-champions-tv-3?schedule_id=4433112
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ok_pO6T8MKAwWZTEfKjBe2IpAAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19077/hw-sport-night-bali-759b0e.jpg" group-title="Event By Vidio",Samuel vs Daniel Josua - Super Bantamweight | HW Sport Night Bali Vol.7" | HW Sport Night Bali · 20 Jul 2025 - 20:01
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19077-hw-sport-night-bali?schedule_id=4433218
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19077-hw-sport-night-bali?schedule_id=4433218
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ok_pO6T8MKAwWZTEfKjBe2IpAAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19077/hw-sport-night-bali-759b0e.jpg" group-title="Event By Vidio",Samuel vs Daniel Josua - Super Bantamweight | HW Sport Night Bali Vol.7" | HW Sport Night Bali · 20 Jul 2025 - 20:45
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19077-hw-sport-night-bali
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19077-hw-sport-night-bali
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z_Y4zmEYhE8u85l5gsblbPSLrcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433184/491e99.jpg" group-title="Event By Vidio",Men: Netherlands vs Italy - Volleyball Nations League" | Volleyball Nations League · 20 Jul 2025 - 21:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18954-volleyball-nations-league?schedule_id=4433184
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18954-volleyball-nations-league?schedule_id=4433184
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lbyNSQxManOHi9aftIwBM0Orago=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433113/e24e86.jpg" group-title="Event By Vidio",WTA 250: UniCredit Iasi Open - Final" | Champions TV 1 · 20 Jul 2025 - 21:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685-champions-tv-1?schedule_id=4433113
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685-champions-tv-1?schedule_id=4433113
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8BhqrsG3sb9JrG-tcjG8cy_Ot5Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433177/4214a4.jpg" group-title="Event By Vidio",Men: Bulgaria vs Iran - Volleyball Nations League" | Champions TV 2 · 20 Jul 2025 - 22:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686-champions-tv-2?schedule_id=4433177
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686-champions-tv-2?schedule_id=4433177
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fMtxdPoBmjSPz5lAZlTl_emKYBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433114/5d07fd.jpg" group-title="Event By Vidio",ATP 250: Plava Laguna Croatia Open Umag 2025 - Day 1" | Bein 3 · 20 Jul 2025 - 23:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4433114
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4433114
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_cE1Qt8i6A30klnSQhS3r5kaOtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433217/4e8023.jpg" group-title="Event By Vidio",ATP 250: Plava Laguna Croatia Open Umag 2025 - Day 1" | Bein 3 · 21 Jul 2025 - 02:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4433217
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4433217
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_rvLPu5R1srICVoPK2zigS-aLVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433125/05404d.jpg" group-title="Event By Vidio",Indonesia vs Malaysia - ASEAN U-23 Championship Mandiri Cup" | ASEAN U-23 Championship Mandiri Cup · 21 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4433125
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4433125
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KIAMbI9waLVvCCRZYQle8zjWGS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433127/b69154.jpg" group-title="Event By Vidio",Philippines vs Brunei Darussalam - ASEAN U-23 Championship Mandiri Cup" | ASEAN U-23 Championship Mandiri Cup · 21 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19088-asean-u-23-championship-mandiri-cup?schedule_id=4433127
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19088-asean-u-23-championship-mandiri-cup?schedule_id=4433127
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E96uX8gjVTBM5rb7iX0vCe7o-II=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433219/421c9c.jpg" group-title="Event By Vidio",ATP 250: Plava Laguna Croatia Open Umag 2025 - Day 2" | Bein 3 · 21 Jul 2025 - 21:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6317-bein-3?schedule_id=4433219
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6317-bein-3?schedule_id=4433219
