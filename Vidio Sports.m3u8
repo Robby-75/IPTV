@@ -114,6 +114,13 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
 
 
 ================= Vidio 2 =================
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="Vidio 2", Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/YXGaqbBcWaGuuharMuSqU5g91_s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-088191.jpg" group-title="Vidio 2", Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
