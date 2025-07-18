@@ -1,5 +1,100 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/AQedtZhMFG.xml" refresh="23"
 
+
+
+================= AFF U-23 =================
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://v4-6d0674772011a976fb80c0bf6c1ab307.livehwc4.com/pull.chaojiumq.com/live/sd-1-4337620.m3u8?edge_slice=true&txTime=687a1b3a&sub_m3u8=true&txSecret=b354614036bc1b755b7b53d606d4e0b9&user_session_id=8d2fa12b8f9ea5b7f83a2dee3efb58b7
+
+
+
+================= Football Schedule =================
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oGS1s2vUPQZvDN4cgDnrrYmeTq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431398/62a915.jpg" group-title="Football Schedule",Brunei Darussalam vs Malaysia - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 18 Jul 2025 - 17:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431398
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431398
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lMwrpmfv2v1D8-ZBdeXGnPZ5XEM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431399/2041ac.jpg" group-title="Football Schedule",Philippines vs Indonesia - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 18 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431399
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431399
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ip4srYipdBRFh3QTVLgB-U4ULe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431400/f4f028.jpg" group-title="Football Schedule",Laos vs Vietnam - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 19 Jul 2025 - 17:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431400
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431400
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CTrLkOwgRg71lDxdJLZY7HLuRZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433119/a09c64.jpg" group-title="Football Schedule",Launching Team Persebaya Surabaya 2025/2026 | Launching Team Persebaya Surabaya 2025/2026 · 19 Jul 2025 - 17:40
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19086-launching-team-persebaya-surabaya-2025-2026?schedule_id=4433119
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19086-launching-team-persebaya-surabaya-2025-2026?schedule_id=4433119
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVzQkLa8dkjfj7_r8saIu8aoRAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433117/2c9fa6.jpg" group-title="Football Schedule",Persebaya Surabaya vs PSS Sleman - Persebaya Matchday | Persebaya Matchday 2025 · 19 Jul 2025 - 19:30
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19047-persebaya-matchday-2025?schedule_id=4433117
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19047-persebaya-matchday-2025?schedule_id=4433117
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Cb4OXDmzjSZ8a6b1UvFxMVthhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431401/8d9405.jpg" group-title="Football Schedule",Timor-Leste vs Thailand - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 19 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431401
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431401
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_rvLPu5R1srICVoPK2zigS-aLVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433125/05404d.jpg" group-title="Football Schedule",Indonesia vs Malaysia - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 21 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4433125
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4433125
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KIAMbI9waLVvCCRZYQle8zjWGS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433127/b69154.jpg" group-title="Football Schedule",Philippines vs Brunei Darussalam - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 21 Jul 2025 - 20:00
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19088-asean-u-23-championship-mandiri-cup?schedule_id=4433127
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19088-asean-u-23-championship-mandiri-cup?schedule_id=4433127
+
+
+
+
+================= Vidio =================
+
+
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="Vidio", Premier League TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -228,97 +323,4 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
 
 
-================= Football Schedule =================
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oGS1s2vUPQZvDN4cgDnrrYmeTq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431398/62a915.jpg" group-title="Football Schedule",Brunei Darussalam vs Malaysia - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 18 Jul 2025 - 17:00
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431398
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431398
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lMwrpmfv2v1D8-ZBdeXGnPZ5XEM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431399/2041ac.jpg" group-title="Football Schedule",Philippines vs Indonesia - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 18 Jul 2025 - 20:00
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431399
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431399
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ip4srYipdBRFh3QTVLgB-U4ULe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431400/f4f028.jpg" group-title="Football Schedule",Laos vs Vietnam - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 19 Jul 2025 - 17:00
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431400
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431400
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CTrLkOwgRg71lDxdJLZY7HLuRZ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433119/a09c64.jpg" group-title="Football Schedule",Launching Team Persebaya Surabaya 2025/2026 | Launching Team Persebaya Surabaya 2025/2026 · 19 Jul 2025 - 17:40
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19086-launching-team-persebaya-surabaya-2025-2026?schedule_id=4433119
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19086-launching-team-persebaya-surabaya-2025-2026?schedule_id=4433119
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVzQkLa8dkjfj7_r8saIu8aoRAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433117/2c9fa6.jpg" group-title="Football Schedule",Persebaya Surabaya vs PSS Sleman - Persebaya Matchday | Persebaya Matchday 2025 · 19 Jul 2025 - 19:30
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19047-persebaya-matchday-2025?schedule_id=4433117
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19047-persebaya-matchday-2025?schedule_id=4433117
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Cb4OXDmzjSZ8a6b1UvFxMVthhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431401/8d9405.jpg" group-title="Football Schedule",Timor-Leste vs Thailand - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 19 Jul 2025 - 20:00
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431401
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4431401
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_rvLPu5R1srICVoPK2zigS-aLVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433125/05404d.jpg" group-title="Football Schedule",Indonesia vs Malaysia - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 21 Jul 2025 - 20:00
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4433125
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037-asean-u-23-championship-mandiri-cup?schedule_id=4433125
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KIAMbI9waLVvCCRZYQle8zjWGS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433127/b69154.jpg" group-title="Football Schedule",Philippines vs Brunei Darussalam - ASEAN U-23 Championship Mandiri Cup | ASEAN U-23 Championship Mandiri Cup · 21 Jul 2025 - 20:00
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19088-asean-u-23-championship-mandiri-cup?schedule_id=4433127
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19088-asean-u-23-championship-mandiri-cup?schedule_id=4433127
-
 ================= Event By Vidio =================
-
-
-
-================= AFF U-23 =================
-
-
-
-
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://thumbor.prod.vidiocdn.com/oGS1s2vUPQZvDN4cgDnrrYmeTq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431398/62a915.jpg", Brunei Darussalam vs Malaysia | 18 Jul 2025 - 17:00
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://thumbor.prod.vidiocdn.com/lMwrpmfv2v1D8-ZBdeXGnPZ5XEM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431399/2041ac.jpg", Filipina vs Indonesia | 18 Jul 2025 - 20:00
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://thumbor.prod.vidiocdn.com/ip4srYipdBRFh3QTVLgB-U4ULe8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431400/f4f028.jpg", Laos vs Vietnam | 19 Jul 2025 - 20:00
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://thumbor.prod.vidiocdn.com/0Cb4OXDmzjSZ8a6b1UvFxMVthhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4431401/8d9405.jpg", Timor-Leste vs Thailand | 19 Jul 2025 - 20:00
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
