@@ -4,20 +4,18 @@
 
 ================= AFF U-23 =================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+#EXTINF:-1 group-title="EVENT 18/JULI/2025"  tvg-id="trueSports2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Filipina vs Indonesia
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=1f131ba3c25caac3721ceaf6c2802768&wsABSTime=1752882331
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTINF:-1 group-title="EVENT 18/JULI/2025"  tvg-id="trueSports2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 20:00 WIB Filipina vs Indonesia
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/8nX2xSCb34YobOawVJRFKA/Fv2lucGIbhPi2caWYvF5Lg/1752859085980/live/may101/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://v4-6d0674772011a976fb80c0bf6c1ab307.livehwc4.com/pull.chaojiumq.com/live/sd-1-4337620.m3u8?edge_slice=true&txTime=687a1b3a&sub_m3u8=true&txSecret=b354614036bc1b755b7b53d606d4e0b9&user_session_id=8d2fa12b8f9ea5b7f83a2dee3efb58b7
 
 ================= Backup =================
 
