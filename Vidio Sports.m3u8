@@ -8,111 +8,125 @@
 
 ================= Channel =================
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 6685
+#EXTINF:-1 tvg-logo="" group-title="Channel", 17278
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17278
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 17505
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17505
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17505
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 17938
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17938
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 17939
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17939
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17939
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18249
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18250
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18252
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18253
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18762
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18762
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18762
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=
 
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 6686
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18851
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 6717
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18853
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6717
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6717
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 6786
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18913
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18913
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18913
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 9183
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18954
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9183
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9183
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18954
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18954
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 9451
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18985
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9451
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9451
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18985
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18985
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17592
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18994
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17592
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17592
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18994
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18994
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17638
+#EXTINF:-1 tvg-logo="" group-title="Channel", 19079
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17638
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17638
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19079
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19079
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17639
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17639
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17639
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17653
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17653
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17653
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17882
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17882
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17882
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18796
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18796
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18796
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18797
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18797
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18797
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18798
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18798
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18798
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18799
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18799
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18799
 
 
 ================= TV =================
