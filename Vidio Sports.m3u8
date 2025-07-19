@@ -24,6 +24,12 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=874
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6165
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png" group-title="TV", BTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6670
+
 
 ================= Vidio =================
 
