@@ -6,63 +6,134 @@
 
 ================= Football Schedule =================
 
-================= Channel =================
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17278
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_rvLPu5R1srICVoPK2zigS-aLVU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433125/05404d.jpg" group-title="AFF U-23", Indonesia vs Malaysia
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17278
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17505
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KIAMbI9waLVvCCRZYQle8zjWGS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4433127/b69154.jpg" group-title="AFF U-23", Philippines vs Brunei Darussalam
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17505
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17505
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19088
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19088
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17938
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17938
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938
+================= Badminton =================
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17939
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17939
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17939
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18249
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sDkcRjKNcBlClcqCN5I5afk8Sac=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-finals-5dd6d4.jpg" group-title="Badminton", Daihatsu Japan Open 2025 - Finals Stream A
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18250
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sDkcRjKNcBlClcqCN5I5afk8Sac=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-finals-5dd6d4.jpg" group-title="Badminton", Daihatsu Japan Open 2025 - Finals Stream B
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18252
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sDkcRjKNcBlClcqCN5I5afk8Sac=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-finals-5dd6d4.jpg" group-title="Badminton", Daihatsu Japan Open 2025 - Finals Stream C
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18253
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sDkcRjKNcBlClcqCN5I5afk8Sac=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-finals-5dd6d4.jpg" group-title="Badminton", Daihatsu Japan Open 2025 - Finals Stream D
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18253
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
+
+
+================= Volleyball  =================
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball", Volleyball Nations League Stream A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball", Volleyball Nations League Stream B
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
+#EXTINF:-1 tvg-logo="" group-title="Volleyball", Volleyball Nations League Stream C
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18954
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18954
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gy_VSdGcMTOdBeSsb5j2gr4tf8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428807/846db0.jpg" group-title="Volleyball", SEA VLeague 2025 Stream A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19050
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19050
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Rw8JiyrzMCU0937PxkkuYWrNPOA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428808/6309bb.jpg" group-title="Volleyball", SEA VLeague 2025 Stream B
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19051
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19051
+
+
+================= HW Sport Night Bali =================
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ok_pO6T8MKAwWZTEfKjBe2IpAAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19077/hw-sport-night-bali-759b0e.jpg" group-title="HW Sport Night Bali", HW Sport Night Bali Stream A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19076
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19076
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ok_pO6T8MKAwWZTEfKjBe2IpAAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19077/hw-sport-night-bali-759b0e.jpg" group-title="HW Sport Night Bali", HW Sport Night Bali Stream B
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19077
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19077
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ok_pO6T8MKAwWZTEfKjBe2IpAAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19077/hw-sport-night-bali-759b0e.jpg" group-title="HW Sport Night Bali", HW Sport Night Bali Stream C
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19078
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19078
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ok_pO6T8MKAwWZTEfKjBe2IpAAo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19077/hw-sport-night-bali-759b0e.jpg" group-title="HW Sport Night Bali", HW Sport Night Bali Stream D
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19079
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19079
+
+================= Channel =================
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", TV5 MONDE
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17278
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Channel", 18762
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -71,40 +142,12 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18253
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18762
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18762
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18851
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18853
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
-
 #EXTINF:-1 tvg-logo="" group-title="Channel", 18913
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18913
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18913
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18954
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18954
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18954
 
 #EXTINF:-1 tvg-logo="" group-title="Channel", 18985
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -119,13 +162,6 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18985
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18994
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18994
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 19079
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19079
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19079
 
 
 
