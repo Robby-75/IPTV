@@ -12,11 +12,35 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=777
 
+#EXTINF:-1 tvg-logo="" group-title="TV", 782
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=782
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 783
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=783
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="TV", Kompas TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=874
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 875
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=875
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 1561
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=1561
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png" group-title="TV", BTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -24,11 +48,101 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=874
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6165
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png" group-title="TV", BTV
+#EXTINF:-1 tvg-logo="" group-title="TV", 6397
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6670
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6397
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 6441
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6441
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 6533
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6533
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 6852
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6852
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 7464
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=7464
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 8120
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=8120
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 8121
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=8121
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 8237
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=8237
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 9713
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9713
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 9946
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9946
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 9947
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9947
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 9948
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9948
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 9949
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9949
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 18046
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18046
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 18170
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18170
+
+#EXTINF:-1 tvg-logo="" group-title="TV", 18425
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18425
 
 
 ================= Vidio =================
