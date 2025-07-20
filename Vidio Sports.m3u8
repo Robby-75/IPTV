@@ -73,6 +73,29 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17939
 
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", TEST
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://api.vidio.com/fluid_watch/livestream/777
+
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", TEST 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://api.vidio.com/livestreamings/777/stream?initialize=true
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Channel", 18189
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
