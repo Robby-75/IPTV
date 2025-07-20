@@ -1,17 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/AQedtZhMFG.xml" refresh="23"
 
-================= Raw Data Vidio =================
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="Raw Data Vidio", Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685
-https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/6685/file/drm/dash/6685_stream.mpd
-
-
 ================= AFF U-23 =================
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 1
@@ -54,11 +42,6 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-
-
-
-
-
 ================= Channel =================
 
 
@@ -66,54 +49,62 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17278
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", TEST
+#EXTINF:-1 tvg-logo="" group-title="Channel", CTV 1 (17938)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTAyMjAwMTYxIiwiY2lkIjoibGl2ZV82Njg1XzAxNDI1Mzc2YjMzYSIsInBvbGljeSI6IjVreGtTMkcrSGxIUm9hZ29QMGFOd2YxYll0MTBKZVlKMmhCVno3OGxkMmdCUHJBRWU5Z0NPb05ubXVJSWJGejB0aEp4WWtocmhTWXloSGpxS3Fsb292Z2x1R3dpT04zcTI3aUF1S1NBenFvelJxWnp6aXUzOWUveTBBWHd5S2Z1IiwidGltZXN0YW1wIjoiMjAyNS0wNy0yMFQxMTo1MTo1NVoiLCJoYXNoIjoiaVlaRXAweUhEVlJhcmw5Z3M0V2pwYk1qNHhyK0xOWUZXN2pPMkZxQ01OYz0iLCJrZXlfcm90YXRpb24iOmZhbHNlLCJ2aWRpb19jb250ZW50X2lkIjo2Njg1LCJ2aWRpb19jb250ZW50X3R5cGUiOiJMaXZlc3RyZWFtaW5nIiwiaXNfcHJldmlldyI6ZmFsc2V9
-https://www.vidio.com/live/6685
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 17938
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17938
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18762
+#EXTINF:-1 tvg-logo="" group-title="Channel", CTV 2 (17939)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18762
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18762
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17939
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17939
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18913
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18189
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18913
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18913
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18189
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18189
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18985
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18190
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18985
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18985
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18190
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18190
 
-#EXTINF:-1 tvg-logo="" group-title="Channel", 18994
+#EXTINF:-1 tvg-logo="" group-title="Channel", 18851
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18994
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18994
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
+
+#EXTINF:-1 tvg-logo="" group-title="Channel", 19076
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19076
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19076
+
 
 
 
