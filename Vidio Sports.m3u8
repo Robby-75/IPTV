@@ -146,7 +146,6 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19076
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17278
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
 
@@ -157,7 +156,6 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17938
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938
 
