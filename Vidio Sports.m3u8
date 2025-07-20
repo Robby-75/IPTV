@@ -76,7 +76,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17278
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTAyMjAwMTYxIiwiY2lkIjoibGl2ZV82Njg1XzAxNDI1Mzc2YjMzYSIsInBvbGljeSI6IjVreGtTMkcrSGxIUm9hZ29QMGFOd2YxYll0MTBKZVlKMmhCVno3OGxkMmdCUHJBRWU5Z0NPb05ubXVJSWJGejB0aEp4WWtocmhTWXloSGpxS3Fsb292Z2x1R3dpT04zcTI3aUF1S1NBenFvelJxWnp6aXUzOWUveTBBWHd5S2Z1IiwidGltZXN0YW1wIjoiMjAyNS0wNy0yMFQxMTo1MTo1NVoiLCJoYXNoIjoiaVlaRXAweUhEVlJhcmw5Z3M0V2pwYk1qNHhyK0xOWUZXN2pPMkZxQ01OYz0iLCJrZXlfcm90YXRpb24iOmZhbHNlLCJ2aWRpb19jb250ZW50X2lkIjo2Njg1LCJ2aWRpb19jb250ZW50X3R5cGUiOiJMaXZlc3RyZWFtaW5nIiwiaXNfcHJldmlldyI6ZmFsc2V9
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685
+https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/6685/file/drm/dash/6685_stream.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Channel", 17938
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
