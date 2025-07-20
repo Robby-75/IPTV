@@ -79,7 +79,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17939
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://api.vidio.com/fluid_watch/livestream/777
+https://hermes.vidio.com/api/tags?ce=&cg=news%20program,social,incident,politic&cp=false&ct=Livestreaming&cct&cgp=News,News&cid=777&cmg=news%20program&cro=13%20or%20more&cur=external_partner&cuu=metrotv&cuid=566752&durl=https://www.vidio.com/live/777-metro-tv&fld=false&lst=news,vidio%20hari%20ini,metro%20tv,prime%20time%20news,news%20program,siaran%20favorit,live%20international&av=7.6&d=android&cdt=0&pm=true&vvid=b82acabe-bc3e-4b0e-a09b-ef7127b45c1e&did=f4d4a5e5-2be2-4f13-bd21-d40b5227f317
 
 
 #EXTINF:-1 tvg-logo="" group-title="Channel", TEST 1
