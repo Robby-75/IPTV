@@ -2,43 +2,23 @@
 
 ================= AFF U-23 =================
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 1
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://hls.uouetrq19.com/live/sd-6MuSNPUaDNpu92DNkX.m3u8?txSecret=d40cbea88e9e5a7bb5e26b3e9da6929e&txTime=687CC28A
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 2
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/X9ZQE2G-o0sLvHobadLWxA/Fv2lucGIbhPi2caWYvF5Lg/1752940394477/live/may6/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/obCvYhEYWqYM_3ouVK-aHg/Fv2lucGIbhPi2caWYvF5Lg/1752681027769/live/may10/chunklist.m3u8
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://tfnk4gr3uomttgr31hctigyzdrptpqb4sa5dzqcssqh5df3w8o4mq8rho.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59250833-saturn-wsu/playlist.m3u8?wsSecret=74144a8c638653233158de8995857f15&wsABSTime=687bb32c&wsSession=343091e978ed59883a6e9498-175292100043860&wsIPSercert=baca206c4e022ac789f0f47795689b91&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=7464
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=7464
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://v4-676ad5a9989e794593dec534489c2d49.livehwc4.com/pull.chaojiumq.com/live/sd-1-4337625.m3u8?user_session_id=6787dfa9c2b70478f294330aed0f4947&sub_m3u8=true&txTime=687b6cf7&txSecret=462896036906158309389b6269cad627&edge_slice=true
 
 
 
@@ -68,28 +48,6 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17939
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17939
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", TEST
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://hermes.vidio.com/api/tags?ce=&cg=news%20program,social,incident,politic&cp=false&ct=Livestreaming&cct&cgp=News,News&cid=777&cmg=news%20program&cro=13%20or%20more&cur=external_partner&cuu=metrotv&cuid=566752&durl=https://www.vidio.com/live/777-metro-tv&fld=false&lst=news,vidio%20hari%20ini,metro%20tv,prime%20time%20news,news%20program,siaran%20favorit,live%20international&av=7.6&d=android&cdt=0&pm=true&vvid=b82acabe-bc3e-4b0e-a09b-ef7127b45c1e&did=f4d4a5e5-2be2-4f13-bd21-d40b5227f317
-
-
-#EXTINF:-1 tvg-logo="" group-title="Channel", TEST 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://api.vidio.com/livestreamings/777/stream?initialize=true
-
-
-
 
 
 
