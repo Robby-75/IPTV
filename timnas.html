@@ -1,0 +1,65 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Streaming Timnas </title>
+	<link rel="icon" type="image/png" loading="lazy" href="faviconV2.png" sizes="128x128">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ssl.p.jwpcdn.com/player/v/8.32.1/jwplayer.js" type="text/javascript"></script>
+</head>
+
+<body>    
+    <div id="container">
+        <div id="player-container">
+            <script type="text/javascript">
+                jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
+                var playerInstance = jwplayer("player-container").setup({
+                    file: "https://liveplus.rctiplus.id/RTMP-IN.m3u8",
+                    aspectratio: '16:9',
+                    width: '100%',
+                    autostart: true, // Disable autostart initially
+                    "Volume": "50",
+                    mute: false,
+                    type: "hls",
+                    drm: {
+                        "clearkey": {
+                            "keyId": "251c384e846841abafa1f7c723d57e66",
+                            "key": "e45b06a38cd261b74c5160f0912c042f"
+                        }
+                    }
+                });
+            </script>
+        </div>
+    </div>
+</body>
+<script>
+    // Function to prevent right-click menu
+    document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+    });
+
+    // Function to prevent keyboard shortcuts
+    document.onkeydown = function (e) {
+        // Disable F12 key
+        if (event.keyCode == 123) {
+            return false;
+        }
+        // Disable Ctrl+Shift+I key combination
+        if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+            return false;
+        }
+        // Disable Ctrl+Shift+J key combination
+        if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+            return false;
+        }
+        // Disable Ctrl+Shift+U key combination
+        if (e.ctrlKey && e.shiftKey && e.keyCode == 'U'.charCodeAt(0)) {
+            return false;
+        }
+        // Disable Ctrl+C key combination
+        if (e.ctrlKey && e.keyCode == 'C'.charCodeAt(0)) {
+            return false;
+        }
+    };
+</script>
+
+</html>
