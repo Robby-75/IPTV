@@ -2,6 +2,7 @@
 
 ================= Vidio Sports =================
 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="LIVE-EVENT",RCTI LIVE SPORTS
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
@@ -279,6 +280,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18189
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=473505e82df105bc95263c41eb5880a8:6feea8a3b6dc23b4f33ca74a822a9915
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190
+
 
 
 
