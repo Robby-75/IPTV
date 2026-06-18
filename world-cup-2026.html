@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    <title>TSN 1</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" type="image" loading="lazy" href="tsn.jpeg" sizes="128x128">
+    
+    <script src="https://ssl.p.jwpcdn.com/player/v/8.32.1/jwplayer.js"></script>
+</head>
+<body>    
+    <div id="container">
+        <div id="player-container"></div>
+    </div>
+
+    <script type="text/javascript">
+        // JW Player Configuration
+        jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
+        
+        const playerInstance = jwplayer("player-container").setup({
+            file: "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
+            type: "dash",
+            aspectratio: '16:9',
+            width: '100%',
+            autostart: true, 
+            volume: 100,
+            mute: false,
+            captions: { 
+                color: '#ffffff', 
+                fontSize: '25%', 
+                backgroundOpacity: 0 
+            }
+        });
+
+        // PERBAIKAN LOGIKA: Mencari kualitas tertinggi berdasarkan Bitrate / Height
+        playerInstance.on('levels', function() {
+            const levels = playerInstance.getQualityLevels();
+            
+            if (levels && levels.length > 0) {
+                let highestIndex = 0;
+                let maxBitrate = 0;
+
+                // Melakukan looping untuk memeriksa satu-persatu kualitas yang ada
+                for (let i = 0; i < levels.length; i++) {
+                    // Cari berdasarkan bitrate tertinggi (makin tinggi bitrate, makin bagus gambarnya)
+                    if (levels[i].bitrate > maxBitrate) {
+                        maxBitrate = levels[i].bitrate;
+                        highestIndex = i; // Simpan indeks yang punya bitrate tertinggi
+                    }
+                }
+                
+                // Paksa player pindah ke indeks dengan kualitas/bitrate tertinggi yang ditemukan
+                playerInstance.setCurrentQuality(highestIndex);
+                console.log("Berhasil mengunci ke kualitas terbaik pada indeks ke: " + highestIndex);
+            }
+        });
+
+        // Anti-Inspect / Content Protection
+        document.addEventListener("contextmenu", (e) => e.preventDefault());
+        document.addEventListener("keydown", (e) => {
+            const forbiddenKeys = ['I', 'J', 'U', 'C'];
+            if (
+                e.keyCode === 123 || 
+                (e.ctrlKey && e.shiftKey && forbiddenKeys.includes(String.fromCharCode(e.keyCode))) ||
+                (e.ctrlKey && e.keyCode === 67) 
+            ) {
+                e.preventDefault();
+                return false;
+            }
+        });
+    </script>
+</body>
+</html>
